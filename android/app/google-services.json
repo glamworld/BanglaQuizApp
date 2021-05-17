@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300647601852",
+    "project_id": "quiz-app-28925",
+    "storage_bucket": "quiz-app-28925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300647601852:android:443ce60987027e531b22b9",
+        "android_client_info": {
+          "package_name": "com.glamworlditltd.bangla_quiz_quiz_2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300647601852-7jqrctkrlijhhi9jrjpbrlulbh0p3i5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJyjAVvqUPcACzm39r6j5pegtARnwWU9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300647601852-7jqrctkrlijhhi9jrjpbrlulbh0p3i5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3385686622811384~1775020365"
+    }
+  ],
+  "configuration_version": "1"
+}
