@@ -165,7 +165,7 @@ class _StartGameState extends State<StartGame> with WidgetsBindingObserver{
     };
   }
   void _showRewardedAd() {
-    RewardedVideoAd.instance.load(adUnitId: RewardedVideoAd.testAdUnitId); //TODO: replace it with your own Admob Rewarded ID
+    RewardedVideoAd.instance.load(adUnitId: adMobService.getRewardBasedVideoAdUnitId()); //TODO: replace it with your own Admob Rewarded ID
   }
 
 
